@@ -36,8 +36,9 @@ This project was conducted in a controlled and legal training environment.
 ---
 
 ## Screenshot
-![Exploitation Shell](screenshots/exploitation-shell.png)
-![Exploitation Shell](screenshots/exploitation-shell.png2)
+![Exploitation Shell 1](screenshots/exploitation-shell-1.png)
+![Exploitation Shell 2](screenshots/exploitation-shell-2.png)
+
 
 ---
 
