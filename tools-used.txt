@@ -1,1 +1,4 @@
+Kali Linux
+Metasploit Framework
+Linux command-line tools
 
